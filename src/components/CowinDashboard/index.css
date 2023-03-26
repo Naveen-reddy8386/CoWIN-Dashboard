@@ -1,0 +1,33 @@
+.container {
+  background-color: #161625;
+
+  background-size: cover;
+  padding: 30px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.header {
+  display: flex;
+  align-items: center;
+}
+.head {
+  color: #2cc6c6;
+  font-size: 20px;
+}
+.logo {
+  height: 25px;
+}
+.heading {
+  color: #cbd5e1;
+  font-size: 22px;
+}
+.failure-image {
+  height: 390px;
+}
+.failure-text {
+  color: white;
+  font-family: Roboto;
+}
